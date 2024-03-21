@@ -1,6 +1,6 @@
 # Learning Rust
 
-My 2023 attempt at learning the Rust programming language
+My 2023/2024 attempt at learning the Rust programming language
 
 ## Directories
 
